@@ -103,14 +103,6 @@ src/
 
 ## 🔧 Configuration
 
-### Environment Variables
-Create a `.env` file in the root directory:
-
-```env
-VITE_API_URL=your-api-endpoint
-VITE_STRIPE_PUBLIC_KEY=your-stripe-key
-```
-
 ### Build Configuration
 The project uses Vite for optimal performance:
 - Fast HMR (Hot Module Replacement)
@@ -126,7 +118,7 @@ The project uses Vite for optimal performance:
 
 ## 📄 License
 
-This project is proprietary and confidential.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## 🤝 Contributing
 
