@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="60" fill="#0d0a08"/>
+  <!-- Outer glowing accent ring -->
+  <rect width="256" height="256" rx="60" fill="none" stroke="#2a2015" stroke-width="4"/>
+  <!-- The 'M' symbol -->
+  <path d="M64 176 L64 80 L128 144 L192 80 L192 176" 
+        fill="none" 
+        stroke="#c8a96e" 
+        stroke-width="12" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"
+        style="filter: drop-shadow(0px 4px 8px rgba(0,0,0,0.5));"
+  />
+  <!-- Minimalist Coffee bean motif -->
+  <path d="M128 180 Q144 196 128 212 Q112 196 128 180" fill="#c8a96e" style="filter: drop-shadow(0px 2px 4px rgba(0,0,0,0.5));" />
+</svg>
